@@ -1,7 +1,7 @@
 # Bienvenido a mi página
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gines-rodriguez-778614141" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gines-rodriguez-778614141" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-007785?style-for-the-badge&logo-linkedin&logoColor=white" />
 </a>
 <a href="#" target="_blank">
